@@ -7,7 +7,9 @@ using DataBridgeBaseLib.Entities;
 
 namespace DataBridgeMTCTSample.Entities
 {
-
+    /// <summary>
+    /// The entity represents one row of ABCEntity table
+    /// </summary>
     public class ABCEntity : BaseEntity
     {
         #region Properties
