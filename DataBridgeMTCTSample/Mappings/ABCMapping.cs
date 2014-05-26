@@ -8,6 +8,9 @@ using DataBridgeMTCTSample.Entities;
 
 namespace DataBridgeMTCTSample.Mappings
 {
+    /// <summary>
+    /// This class describe how to map the ABCEntity class to ABCEntity table columns.
+    /// </summary>
     public class ABCMapping : BaseEntityMap<ABCEntity>
     {
         public ABCMapping()
